@@ -8,3 +8,6 @@ Este proyecto va almacenar mis respuestas a los distintos retos que propone Mour
 - FizzBuzz
 - Area poligono
 - Numeros Primos
+- Contando Palabras
+- Decimal a Binario
+- Morse a Texto

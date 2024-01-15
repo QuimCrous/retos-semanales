@@ -25,5 +25,12 @@ public class Main {
         Poligono.calcularArea("ppppp",2.,8.);
 
         CadenaInvertida.invertirCadena("Hola Mundo!");
+
+        CuentaPalabras.cuentaPalabras("a la casa...que hi farem");
+
+        System.out.println(DecimalBinario.convertirDecimalABinario(13.625));
+
+        System.out.println(MorseString.convertMorseString("Hola que tal"));
+        System.out.println(MorseString.convertMorseString(".... --- .-.. .-  --.- ..- .  - .- .-.."));
     }
 }
